@@ -71,7 +71,7 @@
 ## 🌐 Connect with Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/shivanand-devakate-b81077281?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* 📧 Email: shivananddevakate497@gmail.com
+* 📧 Email: shivananddevakate2@gmail.com
 * insta:https://www.instagram.com/shivu._.0017?igsh=MTYxZDExcXRhbndqOA==
 * 🌍 Portfolio:https://shivanand-1.netlify.app/
 
