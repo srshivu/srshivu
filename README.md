@@ -41,7 +41,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
+
 
 ## 📂 Featured Projects
 
@@ -49,7 +49,7 @@
   Detect food from images and estimate calories
 
 * 🌾 **Smart AgriContract**
-  Blockchain-based system connecting farmers directly with buyers
+  soil and the disease prediction system connecting farmers directly with buy the solution and conseltency
 
 * 🎯 **Mine Prediction AI**
   Probability-based prediction system for gaming simulations
