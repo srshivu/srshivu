@@ -1,163 +1,90 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:130f40,100:000000&height=280&section=header&text=Shivanand%20Devakate&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Artificial%20Intelligence%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Systems%20That%20Think&descAlignY=62&descSize=14&animation=fadeIn&stroke=7b61ff&strokeWidth=2" width="100%"/>
-</div>
+# Hi 👋, I'm Shivanand Devakate
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI+systems+that+replace+manual+work+%F0%9F%A4%96;Turning+raw+data+into+intelligent+decisions+%F0%9F%A7%A0;From+pixels+to+predictions+%E2%80%94+end+to+end+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<br/>
+🚀 Aspiring Data Scientist | AI Developer | Python Enthusiast
+🎯 Goal: Become industry-level Data Scientist (4-year degree level mastery)
+💡 Passion: Building AI Projects that solve real-world problems
 
 ---
 
-<br/>
+## 🧠 About Me
 
-<div align="center">
+* 🎓 VTU Student
+* 🤖 Working on AI Projects like:
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   SYSTEM PROFILE — SHIVANAND.AI                             ║
-║   ─────────────────────────────────────────────────────     ║
-║   ROLE        →  AI Developer & Data Scientist              ║
-║   UNIVERSITY  →  VTU, India                                 ║
-║   FOCUS       →  ML · Deep Learning · NLP · RAG Systems     ║
-║   PHILOSOPHY  →  Code should solve real pain, not just run  ║
-║   CURRENT     →  Architecting AI Agents & Automation        ║
-║   STATUS      →  [ ██████████████████░░ ] ALWAYS BUILDING   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
+  * AI Nutrition Analyzer
+  * Smart AgriContract (Blockchain-based)
+  * Mine Prediction Simulation
+* 📊 Learning: Data Science, Machine Learning, Deep Learning
+* 🔥 Currently building: AI Agents & Automation Systems
 
 ---
 
-<br/>
+## 🛠️ Skills
 
-## ⚡ Technical Stack
+## 🛠️ Skills
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C84?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 〔 LANGUAGES & CORE 〕
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
 
-### 〔 AI · ML · DATA 〕
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)&nbsp;
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=spacy&logoColor=09A3D5)&nbsp;
-![RAG](https://img.shields.io/badge/RAG%20Systems-000000?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 〔 LIBRARIES 〕
 
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=11557C)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+## 📂 Featured Projects
 
-### 〔 INFRASTRUCTURE 〕
+* 🍎 **AI Nutrition Analyzer**
+  Detect food from images and estimate calories
 
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)&nbsp;
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=ethereum&logoColor=627EEA)
+* 🌾 **Smart AgriContract**
+  soil and the disease prediction system connecting farmers directly with buy the solution and conseltency
 
-</div>
-
-<br/>
+* 🎯 **Mine Prediction AI**
+  Probability-based prediction system for gaming simulations
 
 ---
 
-<br/>
+## 📊 GitHub Stats
 
-## 🔬 Projects
-
-<br/>
-
-<div align="center">
-
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | What it does | Stack |
-|:---:|:---|:---|:---|
-| 🍎 | **AI Nutrition Analyzer** | Detects food from images and predicts calorie content using a full CV + DL pipeline | `Computer Vision` `Deep Learning` `Python` |
-| 🌾 | **Smart AgriContract** | Connects farmers directly with buyers via blockchain — with built-in soil & disease prediction AI | `Blockchain` `ML Models` `FastAPI` |
-| 💣 | **Mine Prediction AI** | Real-time probability engine for gaming simulations — pattern-driven, model-backed decisions | `Probability Models` `Python` `Simulation` |
-
-</div>
-
-<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
 
 ---
 
-<br>
+## 🔥 GitHub Streak
 
-<br/>
-
-## 🏅 Certifications
-
-<br/>
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   ◈  INFOSYS SPRINGBOARD   ──  Certified                    │
-│   ◈  YHILLS                ──  Certified                    │
-│   ◈  REAL-WORLD AI BUILDS  ──  Shipped & Deployed           │
-│   ◈  SELF-DIRECTED MASTERY ──  Ongoing · No ceiling         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
 
 ---
 
-<br/>
+## 🌐 Connect with Me
 
-## 🌐 Find Me
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/shivanand-devakate-b81077281)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://shivanand-1.netlify.app/)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/shivu._.0017)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:shivananddevakate2@gmail.com)
-
-</div>
-
-<br/>
+* 💼 LinkedIn: https://www.linkedin.com/in/shivanand-devakate-b81077281?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* 📧 Email: shivananddevakate2@gmail.com
+* insta:https://www.instagram.com/shivu._.0017?igsh=MTYxZDExcXRhbndqOA==
+* 🌍 Portfolio:https://shivanand-1.netlify.app/
 
 ---
 
-<br/>
+## 🏆 Achievements
 
-<div align="center">
+* 📜 Infosys Springboard Certified
+* 📜 Yhills Certification
+* 🧪 Built multiple real-world AI projects
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+---
 
-<br/><br/>
+## ⚡ Fun Fact
 
-```
-"I don't wait for AI to exist. I build it."
-                                   — Shivanand
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:130f40,70:302b63,100:000000&height=140&section=footer" width="100%"/>
-
-</div>
+I love building AI systems that can replace manual work and solve real-world problems 🚀
