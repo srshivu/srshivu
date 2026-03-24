@@ -97,31 +97,7 @@
 
 ---
 
-<br/>
-
-## 📡 Activity & Stats
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00f0ff&line=7b61ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f0ff&icon_color=7b61ff&text_color=c9d1d9&ring_color=7b61ff" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=c9d1d9" height="160"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=000000&stroke=7b61ff&ring=00f0ff&fire=ff6b35&currStreakLabel=00f0ff&sideLabels=7b61ff&dates=5a6480" width="60%"/>
-
-</div>
-
-<br/>
-
----
+<br>
 
 <br/>
 
